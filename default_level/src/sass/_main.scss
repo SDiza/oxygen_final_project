@@ -30,8 +30,7 @@
 }
 
 .menu {
-  display: flex;
-  justify-content: flex-start;
+  text-align: center;
 }
 
 .menu__box {
@@ -43,20 +42,16 @@
 }
 
 .circle {
-  position: relative;
   width: 70px;
   height: 70px;
   background-color: white;
   border-radius: 50%;
   margin: 0 auto;
-  top: 67px;
-}
-
-.circle > img {
-  position: absolute;
-  top: 15%;
-  left: 25%;
-}
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 67px;
+  }
 
 .menu__box p {
   top: 25%;
@@ -64,19 +59,19 @@
   color: white;
 }
 
-.menu__box1 {
+.menu__box--1 {
   flex-grow: 1;
   background-color: #43b1d2;
   }
-.menu__box2 {
+.menu__box--2 {
   flex-grow: 1;
   background-color: #3fb6c6;
 }
-.menu__box3 {
+.menu__box--3 {
   flex-grow: 1;
   background-color: #3cbbbb;
 }
-.menu__box4 {
+.menu__box--4 {
   flex-grow: 1;
   background-color: #37c3a8;
 }

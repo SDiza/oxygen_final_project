@@ -1,0 +1,144 @@
+/* Header */
+@import url("https://fonts.googleapis.com/css?family=Lato");
+@import url("https://fonts.googleapis.com/css?family=Calibri:400,700,400italic,700italic");
+.header {
+  background-color: #43b0d1;
+  width: 100%;
+  height: 118px; }
+
+.header__logo {
+  position: relative;
+  left: 15px;
+  color: white; }
+
+.header__phone {
+  position: relative;
+  font-weight: 700;
+  color: white;
+  right: 15px;
+  font-family: Tahoma, sans-serif;
+  font-weight: bold; }
+
+.header__inner {
+  display: flex;
+  justify-content: space-between;
+  padding: 27px 0; }
+
+.header__inner p {
+  font-family: 'Calibri' , sans-serif;
+  font-weight: bold;
+  color: #fff;
+  flex-grow: 1;
+  padding: 0 25px; }
+
+/*Nav*/
+.navigation {
+  position: absolute;
+  top: 80px;
+  left: 40%; }
+
+.navigation ul {
+  top: 100px;
+  right: 0;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden; }
+
+.navigation li {
+  float: left; }
+
+.navigation li a {
+  display: inline;
+  color: #494848;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-family: 'Calibri' , sans-serif; }
+
+.navigation .active {
+  color: white; }
+
+.main {
+  width: 100%;
+  height: 516px;
+  background-color: #cbd4e6; }
+
+.main__intro {
+  position: absolute;
+  top: 116px;
+  right: 0;
+  text-align: right; }
+
+.main__info {
+  font-family: 'Calibri' , sans-serif;
+  font-style: normal;
+  font-weight: 700; }
+
+.main__callback {
+  top: 10px;
+  font-family: 'Calibri' , sans-serif;
+  color: #494848; }
+
+.menu {
+  text-align: center; }
+
+.menu__box {
+  display: flex;
+  justify-content: space-around;
+  height: 323px;
+  flex-grow: 1;
+  font-family: 'Calibri' , sans-serif; }
+
+.circle {
+  width: 70px;
+  height: 70px;
+  background-color: white;
+  border-radius: 50%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 67px; }
+
+.menu__box p {
+  top: 25%;
+  font-family: 'Calibri' , sans-serif;
+  color: white; }
+
+.menu__box--1 {
+  flex-grow: 1;
+  background-color: #43b1d2; }
+
+.menu__box--2 {
+  flex-grow: 1;
+  background-color: #3fb6c6; }
+
+.menu__box--3 {
+  flex-grow: 1;
+  background-color: #3cbbbb; }
+
+.menu__box--4 {
+  flex-grow: 1;
+  background-color: #37c3a8; }
+
+.card-text {
+  text-align: left; }
+
+.card {
+  border: #0c5460 solid; }
+
+.cliniks {
+  border: 1px solid #ddd; }
+
+* {
+  box-sizing: border-box; }
+
+body {
+  margin: 0px;
+  padding: 0px; }
+
+.container {
+  width: 100%;
+  max-width: 1440px;
+  margin: 0 auto; }

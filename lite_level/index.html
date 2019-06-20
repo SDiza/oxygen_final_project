@@ -10,7 +10,7 @@
     <link rel="stylesheet" href="style/bootstrap.min.css">
 </head>
 <body>
-<header class="header d-flex">
+<header class="header">
     <div class="container">
         <div class="header__inner">
             <div class="header__logo"><img src="img/Logo.svg" alt="Логотип" width="64" height="57">
@@ -35,21 +35,24 @@
     </div>
 </header>
 <main class="main">
-    <div class="container">
-        <img class="img-fluid" src="img/Layer%201.svg">
-        <div class="main__intro flex-row justify-content-between ">
-            <div class="main__info"><p>Всю необходимую информацию о том, как и в каком центре<br>
-                сделать МРТ, КТ и рентген исследованиях, сравнить интересующие<br>
-                Вас клиники, цены на диагностику и порядок прохождения<br>
-                процедур, а также записаться на исследование можно по<br>
-                телефону 8 (812) 385-77-56</p></div>
-            <div class="main__callback">
-                <form class="form"><h1>Оставьте свой номер, а мы<br>
-                    Вам перезвоним</h1>
-                    <input type="tel" placeholder="+380">
-                    <input type="submit" value="Отправить"></input></form>
+    <div class="menubackground">
+        <div class="container">
+        <div class="intro img-fluid">
+            <div class="main__intro flex-row justify-content-between">
+                <div class="main__info"><p>Всю необходимую информацию о том, как и в каком центре<br>
+                    сделать МРТ, КТ и рентген исследованиях, сравнить интересующие<br>
+                    Вас клиники, цены на диагностику и порядок прохождения<br>
+                    процедур, а также записаться на исследование можно по<br>
+                    телефону 8 (812) 385-77-56</p></div>
+                <div class="main__callback">
+                    <form class="form "><h1>Оставьте свой номер, а мы<br>
+                        Вам перезвоним</h1>
+                        <input type="tel" placeholder="+380">
+                        <input type="submit" value="Отправить"></input></form>
+                </div>
             </div>
         </div>
+    </div>
     </div>
     <div class="container">
         <div class="menu">
@@ -219,7 +222,7 @@
                     </div>
 
                 </div>
-                <button type="button" class="btn btn-secondary justify-content-center card">Все кабинеты</button>
+                <button type="button" class="btn btn-secondary justify-content-center mt-4 mb-4">Все кабинеты</button>
             </div>
         </fieldset>
     </div>

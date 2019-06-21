@@ -71,8 +71,7 @@
   background-image: url("../../img/Layer 1.svg");
   background-position: center;
   max-width: 100%;
-  height: 515px;
-  z-index: 99; }
+  height: 515px; }
 
 .main__intro {
   position: absolute;
@@ -80,15 +79,9 @@
   right: 0;
   text-align: right; }
 
-.main__info {
-  font-family: 'Calibri' , sans-serif;
-  font-style: normal;
-  font-weight: 700; }
-
 .main__callback {
   top: 10px;
-  font-family: 'Calibri' , sans-serif;
-  color: #494848; }
+  font-family: 'Calibri' , sans-serif; }
 
 .menu {
   text-align: center; }

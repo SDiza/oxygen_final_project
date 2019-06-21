@@ -1,6 +1,6 @@
 /* Header */
 .header {
-  background-color: $headerColor;
+  background-color: #43b0d1;
   width: 100%;
   height: 118px;
 }
@@ -14,9 +14,12 @@
 .header__phone {
   position: relative;
   font-weight: 700;
+  color: white;
   right: 15px;
-  font-family: $FF_Tahoma;
-}
+  font-family: Tahoma, sans-serif;
+  font-weight: bold;
+  }
+
 .header__inner {
   display: flex;
   justify-content: space-between;
@@ -52,7 +55,7 @@
 
 .nav li a {
   display: inline;
-  color: $introColor;
+  color: #494848;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;

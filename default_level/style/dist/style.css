@@ -94,8 +94,18 @@
 
 .main__callback {
   top: 10px;
-  font-family: 'Calibri' , sans-serif; }
+  font-family: Calibri, sans-serif;
+  color: #494848; }
 
+.telephone {
+  display: flex;
+  justify-content: flex-end;
+  border-radius: 4px; }
+
+.telephone__btn {
+  font-family: Calibri, sans-serif; }
+
+/*MENU*/
 .menu {
   text-align: center; }
 

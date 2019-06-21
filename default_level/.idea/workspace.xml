@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1df9fc7-3640-4e6a-a0eb-05e7350c9693" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sass/_header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/_header.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/sass/_main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/_main.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sass/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/_variables.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style/dist/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style/dist/style.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,8 +19,12 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="213">
-                  <caret line="60" column="45" selection-start-line="60" selection-start-column="45" selection-end-line="60" selection-end-column="45" />
+                <state relative-caret-position="404">
+                  <caret line="45" column="22" selection-start-line="45" selection-start-column="22" selection-end-line="45" selection-end-column="22" />
+                  <folding>
+                    <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" />
+                  </folding>
                 </state>
               </provider>
             </entry>
@@ -50,7 +51,7 @@
             <entry file="file://$PROJECT_DIR$/style/dist/style.css">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="2814">
-                  <caret line="151" selection-start-line="151" selection-end-line="151" />
+                  <caret line="161" selection-start-line="161" selection-end-line="161" />
                 </state>
               </provider>
             </entry>
@@ -80,8 +81,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/sass/_main.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="269">
-                  <caret line="65" column="17" selection-start-line="65" selection-start-column="17" selection-end-line="65" selection-end-column="17" />
+                <state relative-caret-position="479">
+                  <caret line="35" column="18" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
                 </state>
               </provider>
             </entry>
@@ -112,8 +113,8 @@
         <option value="$PROJECT_DIR$/src/sass/style.scss" />
         <option value="$PROJECT_DIR$/src/sass/_variables.scss" />
         <option value="$PROJECT_DIR$/src/sass/_header.scss" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/src/sass/_main.scss" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -192,12 +193,12 @@
       <workItem from="1560930184162" duration="33226000" />
       <workItem from="1561062925074" duration="4825000" />
       <workItem from="1561071812786" duration="24000" />
-      <workItem from="1561096207847" duration="14566000" />
+      <workItem from="1561096207847" duration="17145000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="80513000" />
+    <option name="totallyTimeSpent" value="83092000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -256,7 +257,7 @@
     <entry file="file://$PROJECT_DIR$/style/dist/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2814">
-          <caret line="151" selection-start-line="151" selection-end-line="151" />
+          <caret line="161" selection-start-line="161" selection-end-line="161" />
         </state>
       </provider>
     </entry>
@@ -295,17 +296,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/src/sass/_main.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
-          <caret line="60" column="45" selection-start-line="60" selection-start-column="45" selection-end-line="60" selection-end-column="45" />
+        <state relative-caret-position="479">
+          <caret line="35" column="18" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/sass/_main.scss">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="65" column="17" selection-start-line="65" selection-start-column="17" selection-end-line="65" selection-end-column="17" />
+        <state relative-caret-position="404">
+          <caret line="45" column="22" selection-start-line="45" selection-start-column="22" selection-end-line="45" selection-end-column="22" />
+          <folding>
+            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
         </state>
       </provider>
     </entry>

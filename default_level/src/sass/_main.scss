@@ -3,41 +3,44 @@
   width: 100%;
   height: 515px;
   background-color: #cbd4e6;
-
 }
 .container {
   position: relative;
 }
-
 .intro {
   background-image: url('../../img/Layer 1.svg');
   background-position: center;
   max-width: 100%;
   height: 515px;
-
 }
-
 .main__intro {
   position: absolute;
   top: 116px;
   right: 0;
   text-align: right;
-
 }
-
 .main__info {
 font-family: $font-stack;
   color: $primary-font-color;
   font-weight: 400;
 }
-
 .main__callback {
   top: 10px;
-  font-family: 'Calibri' , sans-serif;
-
-
+  font-family: $font-stack;
+  color: $primary-font-color;
 }
 
+.telephone {
+  display: flex;
+  justify-content: flex-end;
+  border-radius: 4px;
+}
+
+.telephone__btn {
+  font-family: $font-stack;
+}
+
+/*MENU*/
 .menu {
   text-align: center;
 }

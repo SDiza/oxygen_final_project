@@ -79,13 +79,13 @@
   background-image: url("../../img/Layer 1.svg");
   background-position: center;
   max-width: 100%;
-  height: 515px; }
+  height: 515px;
+  text-align: right;
+  display: flex;
+  justify-content: flex-end; }
 
 .main__intro {
-  position: absolute;
-  top: 116px;
-  right: 0;
-  text-align: right; }
+  margin: auto 0; }
 
 .main__info {
   font-family: Calibri, sans-serif;
@@ -93,17 +93,16 @@
   font-weight: 400; }
 
 .main__callback {
-  top: 10px;
   font-family: Calibri, sans-serif;
   color: #494848; }
 
-.telephone {
+.telephone__inner {
   display: flex;
-  justify-content: flex-end;
-  border-radius: 4px; }
+  align-self: flex-start; }
 
 .telephone__btn {
-  font-family: Calibri, sans-serif; }
+  font-family: Calibri, sans-serif;
+  align-items: flex-start; }
 
 /*MENU*/
 .menu {

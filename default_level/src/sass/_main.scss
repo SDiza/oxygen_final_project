@@ -12,32 +12,34 @@
   background-position: center;
   max-width: 100%;
   height: 515px;
+  text-align: right;
+  display: flex;
+  justify-content: flex-end;
+
 }
 .main__intro {
-  position: absolute;
-  top: 116px;
-  right: 0;
-  text-align: right;
-}
+  margin: auto 0;
+  }
 .main__info {
-font-family: $font-stack;
+  font-family: $font-stack;
   color: $primary-font-color;
   font-weight: 400;
 }
 .main__callback {
-  top: 10px;
   font-family: $font-stack;
   color: $primary-font-color;
 }
 
 .telephone {
+}
+.telephone__inner {
   display: flex;
-  justify-content: flex-end;
-  border-radius: 4px;
+  align-self: flex-start;
 }
 
 .telephone__btn {
   font-family: $font-stack;
+  align-items: flex-start;
 }
 
 /*MENU*/

@@ -2,58 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e30fc23-59d8-425b-a6e9-0bfc725bc838" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../hell_level/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hell_level/gulpfile.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hell_level/img/Logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hell_level/img/Vector Smart Object.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hell_level/img/Vector Smart Object2.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hell_level/img/Vector Smart Object3.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hell_level/img/Vector Smart Object4.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hell_level/img/phone-square.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hell_level/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hell_level/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hell_level/src/sass/_header.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hell_level/src/sass/_main.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hell_level/src/sass/_variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hell_level/src/sass/style.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hell_level/style/dist/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Layer 1.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../default_level/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../default_level/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/lite_level.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../hell_level/.idea/lite_level.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hell_level/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hell_level/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hell_level/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hell_level/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Card_logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../hell_level/img/Card_logo.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Layer1.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../hell_level/img/Layer1.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/../hell_level/js/bootstrap.bundle.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap.bundle.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/../hell_level/js/bootstrap.bundle.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap.bundle.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../hell_level/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap.bundle.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/../hell_level/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/../hell_level/js/bootstrap.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/../hell_level/js/bootstrap.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../hell_level/js/bootstrap.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/../hell_level/js/bootstrap.min.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sass/_cliniks.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../hell_level/src/sass/_cliniks.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sass/_header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/_header.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/sass/_main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/_main.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sass/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/_variables.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sass/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/style.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style/bootstrap-grid.css" beforeDir="false" afterPath="$PROJECT_DIR$/../hell_level/style/bootstrap-grid.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style/bootstrap-grid.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/../hell_level/style/bootstrap-grid.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style/bootstrap-grid.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/../hell_level/style/bootstrap-grid.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style/bootstrap-grid.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/../hell_level/style/bootstrap-grid.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style/bootstrap-reboot.css" beforeDir="false" afterPath="$PROJECT_DIR$/../hell_level/style/bootstrap-reboot.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style/bootstrap-reboot.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/../hell_level/style/bootstrap-reboot.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style/bootstrap-reboot.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/../hell_level/style/bootstrap-reboot.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style/bootstrap-reboot.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/../hell_level/style/bootstrap-reboot.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/../hell_level/style/bootstrap.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style/bootstrap.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/../hell_level/style/bootstrap.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/../hell_level/style/bootstrap.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style/bootstrap.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/../hell_level/style/bootstrap.min.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style/dist/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style/dist/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../hell_level/yarn.lock" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -63,26 +14,30 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="441">
-              <caret line="33" column="14" lean-forward="true" selection-start-line="33" selection-start-column="14" selection-end-line="33" selection-end-column="14" />
+            <state relative-caret-position="340">
+              <caret line="245" selection-start-line="245" selection-end-line="245" />
               <folding>
-                <element signature="n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#head#0;n#html#0;n#!!top" />
+                <element signature="n#meta#1;n#head#0;n#html#0;n#!!top" />
+                <element signature="n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#0;n#div#2;n#div#0;n#div#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#0;n#div#3;n#div#0;n#div#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#2;n#main#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#3;n#main#0;n#body#0;n#html#0;n#!!top" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/sass/_main.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-122">
-              <caret line="61" column="18" selection-start-line="61" selection-start-column="18" selection-end-line="61" selection-end-column="18" />
+            <state relative-caret-position="361">
+              <caret line="104" column="9" selection-start-line="104" selection-start-column="9" selection-end-line="104" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -90,7 +45,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/sass/_header.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="483">
+            <state relative-caret-position="361">
               <caret line="71" column="11" selection-start-line="71" selection-start-column="11" selection-end-line="71" selection-end-column="11" />
             </state>
           </provider>
@@ -104,9 +59,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/sass/_main.scss" />
         <option value="$PROJECT_DIR$/src/sass/_header.scss" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/src/sass/_main.scss" />
       </list>
     </option>
   </component>
@@ -169,6 +124,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -199,18 +155,17 @@
       <workItem from="1561128494613" duration="2470000" />
       <workItem from="1561216103398" duration="2443000" />
       <workItem from="1561286790783" duration="2133000" />
-      <workItem from="1561392368729" duration="870000" />
+      <workItem from="1561392368729" duration="4261000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7916000" />
+    <option name="totallyTimeSpent" value="11307000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="-188" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25799572" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25799572" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Gulp" order="2" side_tool="true" />
       <window_info id="npm" order="3" side_tool="true" />
@@ -226,7 +181,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32936078" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -237,30 +192,34 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/sass/_main.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-122">
-          <caret line="61" column="18" selection-start-line="61" selection-start-column="18" selection-end-line="61" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/sass/_header.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
+        <state relative-caret-position="361">
           <caret line="71" column="11" selection-start-line="71" selection-start-column="11" selection-end-line="71" selection-end-column="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
-          <caret line="33" column="14" lean-forward="true" selection-start-line="33" selection-start-column="14" selection-end-line="33" selection-end-column="14" />
+        <state relative-caret-position="340">
+          <caret line="245" selection-start-line="245" selection-end-line="245" />
           <folding>
-            <element signature="n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#head#0;n#html#0;n#!!top" />
+            <element signature="n#meta#1;n#head#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#0;n#div#2;n#div#0;n#div#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#0;n#div#3;n#div#0;n#div#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#2;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#3;n#main#0;n#body#0;n#html#0;n#!!top" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sass/_main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="104" column="9" selection-start-line="104" selection-start-column="9" selection-end-line="104" selection-end-column="9" />
         </state>
       </provider>
     </entry>

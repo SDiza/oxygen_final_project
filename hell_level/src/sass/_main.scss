@@ -1,48 +1,33 @@
-@import "variables";
-.main {
-  width: 100%;
-  height: 515px;
-  background-color: #cbd4e6;
-}
-.container {
-  position: relative;
-}
 .intro {
-  background-image: url('../../img/Layer 1.svg');
+  background-color: #cbd4e6;
+  background-image: url('../../img/Layer1.svg');
   background-position: center;
   max-width: 100%;
   height: 515px;
-  text-align: right;
-  display: flex;
-  justify-content: flex-end;
+ }
 
+.menubackground {
+  background-color: #cbd4e6;
 }
+
 .main__intro {
-  margin: auto 0;
-  }
+    text-align: right;
+
+}
+
 .main__info {
-  font-family: $font-stack;
-  color: $primary-font-color;
-  font-weight: 400;
+  font-family: 'Calibri' , sans-serif;
+  font-style: normal;
+  font-weight: 700;
 }
+
 .main__callback {
-  font-family: $font-stack;
-  color: $primary-font-color;
+  top: 10px;
+  font-family: 'Calibri' , sans-serif;
+  color: #494848;
+
 }
 
-.telephone {
-}
-.telephone__inner {
-  display: flex;
-  align-self: flex-start;
-}
-
-.telephone__btn {
-  font-family: $font-stack;
-  align-items: flex-start;
-}
-
-/*MENU*/
 .menu {
   text-align: center;
 }
@@ -50,7 +35,7 @@
 .menu__box {
   display: flex;
   justify-content: space-around;
-  height: auto;
+  height: 323px;
   flex-grow: 1;
   font-family: 'Calibri' , sans-serif;
 }
@@ -68,9 +53,10 @@
   }
 
 .menu__box p {
+  top: 25%;
   font-family: 'Calibri' , sans-serif;
   color: white;
-  }
+}
 
 .menu__box--1 {
   flex-grow: 1;

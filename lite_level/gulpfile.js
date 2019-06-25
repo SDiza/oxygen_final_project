@@ -10,3 +10,8 @@ gulp.task('sass', function () {
     .pipe(sass().on('error', sass.logError))
     .pipe(gulp.dest('./style/dist'));
 });
+
+gulp.task('watch', function () {
+  gulp.watch('./src/sass/**/*.scss', gulp.series('sass'));
+
+})

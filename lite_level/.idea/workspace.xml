@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9e30fc23-59d8-425b-a6e9-0bfc725bc838" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sass/_main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/_main.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style/dist/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style/dist/style.css" afterDir="false" />
-    </list>
+    <list default="true" id="9e30fc23-59d8-425b-a6e9-0bfc725bc838" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
